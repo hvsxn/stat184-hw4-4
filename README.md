@@ -1,28 +1,34 @@
 # Project Title
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+STAT 184 HW 4.4 GitHub Repository
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This repository was created for STAT 184 HW 4.4. Its purpose is to demonstrate the use of GitHub version control features, including the source and output files from HW 4.3.
 
 ### Interesting Insight (Optional)
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+The main purpose of this repo is to document the GitHub workflow and organize the HW 4.3 assignment files.
 
-## Data Sources and Acknowledgements
+## Data Sources and Acknowledgments
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+The files in this repository are from my own STAT 184 HW 4.3 assignment. I don’t require any additional external dataset for this repository activity.
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+The current plan is to maintain the repository with a main branch and a development branch, track work via GitHub issues, make meaningful commits, and merge changes into main via a pull request. More details are included in the separate `plan.md` file. 
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
+- `README.md`: overview of the repository
+- `plan.md`: plan document for the repo and HW 4.3 materials
+- `hw4_3.qmd`: Quarto source file from HW 4.3
+- `hw4_3.pdf`: PDF submitted for HW 4.3
+
 
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Nihat Hasan
+Penn State University
+Email: nzh5340@psu.edu
